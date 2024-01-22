@@ -304,6 +304,7 @@ declare namespace googleMapReact {
         options: {
             radius?: number | undefined;
             opacity?: number | undefined;
+            gradient?: string[] | undefined;
         };
     }
 
